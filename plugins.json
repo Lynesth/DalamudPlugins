@@ -5,7 +5,7 @@
     "Punchline": "Prevents snapping to furniture when using /doze",
     "Description": "",
     "InternalName": "UnsnapYourDoze",
-    "AssemblyVersion": "1",
+    "AssemblyVersion": "1.0.0",
     "RepoUrl": "https://github.com/Lynesth/UnsnapYourDoze",
     "ApplicableVersion": "any",
     "Tags": [
