@@ -5,9 +5,10 @@
     "Punchline": "A more intelligent targeting system for the game.",
     "Description": "",
     "InternalName": "BetterTargetingSystem",
-    "AssemblyVersion": "0.0.4",
+    "AssemblyVersion": "0.0.5",
     "RepoUrl": "https://github.com/Lynesth/BetterTargetingSystem",
     "ApplicableVersion": "any",
+    "IconUrl": "https://github.com/Lynesth/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
     "Tags": [
       "tab",
       "target",
@@ -16,7 +17,7 @@
     "DalamudApiLevel": 8,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1675756508,
+    "LastUpdated": 1675772753,
     "DownloadLinkInstall": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.4/BetterTargetingSystem.zip",
     "DownloadLinkTesting": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.4/BetterTargetingSystem.zip",
     "DownloadLinkUpdate": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.4/BetterTargetingSystem.zip"
