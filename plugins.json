@@ -1,6 +1,28 @@
 [
   {
     "Author": "Lynesth",
+    "Name": "Better Targeting System",
+    "Punchline": "A more intelligent targeting system for the game.",
+    "Description": "",
+    "InternalName": "BetterTargetingSystem",
+    "AssemblyVersion": "0.0.4",
+    "RepoUrl": "https://github.com/Lynesth/BetterTargetingSystem",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "tab",
+      "target",
+      "targeting"
+    ],
+    "DalamudApiLevel": 8,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1675756508,
+    "DownloadLinkInstall": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.4/BetterTargetingSystem.zip",
+    "DownloadLinkTesting": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.4/BetterTargetingSystem.zip",
+    "DownloadLinkUpdate": "https://github.com/Lynesth/BetterTargetingSystem/releases/download/0.0.4/BetterTargetingSystem.zip"
+  },
+  {
+    "Author": "Lynesth",
     "Name": "Unsnap Your Doze",
     "Punchline": "Prevents snapping to furniture when using /doze",
     "Description": "",
